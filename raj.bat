@@ -1,0 +1,2 @@
+echo rajesh
+mkdir rajesh
